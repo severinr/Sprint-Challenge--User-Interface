@@ -94,6 +94,10 @@ header nav a {
     width: 800px;
     margin: 0 auto;
 }
+.container2 {
+    width: 500px;
+    margin: 0 auto;
+  }
 
 .top-content {
     display: flex;
@@ -155,7 +159,7 @@ footer {
 }
 
 footer nav {
-    width: 60%;
+    width: 100%;
     display: flex;
     justify-content: space-between;
     align-items: center;
